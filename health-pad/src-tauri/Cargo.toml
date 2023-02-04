@@ -1,10 +1,10 @@
 [package]
 name = "health-pad"
-version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
+version = "0.0.1"
+description = "A simple note-taking tool designed for healthcare professionals."
+authors = ["Hubert Lewandowski"]
+license = "Apache License 2.0"
+repository = "https://github.com/RooTender/HealthPad"
 edition = "2021"
 rust-version = "1.57"
 
